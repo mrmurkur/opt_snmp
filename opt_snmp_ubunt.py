@@ -14,14 +14,16 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
-import pass as cfg
+import configparser
 options = webdriver.ChromeOptions()
 #options.add_argument("--no-sandbox")
 #options.add_argument("--headless")
 #driver = webdriver.Chrome(service=Service(executable_path="/home/milov/python/opt_snmp/chromedriver"), options=options)
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-pass_to_cam = cfg.pass_to_cam
+config = configparser.ConfigParser()  # создаём объекта парсера
+config.read("cam_config.ini")  # читаем конфиг
+pass_to_cam = config["pass"]["pass_to_cam"]
 file_path_suc = "/home/milov/python/opt_snmp/log_snmp_cam_suc.txt"
 file_path_fail = "/home/milov/python/opt_snmp/log_snmp_cam_fail.txt"
 optimus_path_fail = "/home/milov/python/opt_snmp/log_optimus_snmp_cam_fail.txt"
@@ -29,8 +31,8 @@ dahua_path_fail = "/home/milov/python/opt_snmp/log_dahua_snmp_cam_fail.txt"
 hikvision_path_file = "/home/milov/python/opt_snmp/hikvision_cam_fail.txt"
 ntp_address = "10.78.0.89"
 
-with open('/home/milov/python/opt_snmp/cameras.txt', 'r') as f:
-# with open('/home/milov/python/opt_snmp/test.txt', 'r') as f:
+# with open('/home/milov/python/opt_snmp/cameras.txt', 'r') as f:
+with open('/home/milov/python/opt_snmp/test.txt', 'r') as f:
     cameras_ip = f.read().splitlines()
 
 def dahua_snmp(cam):
@@ -54,7 +56,7 @@ def dahua_snmp(cam):
         ntp.send_keys(Keys.CONTROL + "a")
         ntp.send_keys(Keys.DELETE)        
         ntp.send_keys(ntp_address)
-        accept_save = driver.find_element_by_xpath('//*[@id="page_generalConfig"]/div/div[2]/div[15]/a[3]')
+        accept_save = driver.find_element("xpath",'//*[@id="page_generalConfig"]/div/div[2]/div[15]/a[3]')
         accept_save.click()           
         net = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[2]/a/span')))
         net.click()
@@ -113,7 +115,7 @@ def hikvision(link_to_cam):
     try:
         hik_login = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH,'//*[@id="username"]')))
         hik_login.send_keys('admin')
-        hik_passw = driver.find_element_by_xpath('//*[@id="password"]')
+        hik_passw = driver.find_element("xpath", '//*[@id="password"]')
         hik_passw.send_keys(pass_to_cam)
         hik_passw.send_keys(Keys.RETURN)
         hik_settings = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="nav"]/li[5]/a')))
@@ -127,7 +129,7 @@ def hikvision(link_to_cam):
         hik_ntp.send_keys(Keys.CONTROL + "a")
         hik_ntp.send_keys(Keys.DELETE)        
         hik_ntp.send_keys(ntp_address)
-        hik_accept_save = driver.find_element_by_xpath('//*[@id="settingTime"]/button')
+        hik_accept_save = driver.find_element("xpath", '//*[@id="settingTime"]/button')
         hik_accept_save.click()
         with open(file_path_suc, 'a') as file:
             print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), link_to_cam, "hikvision ntp enabled", file = file)
@@ -154,7 +156,7 @@ def optimus_snmp_ntp(cam):
         opt_ntp.send_keys(Keys.CONTROL + "a")
         opt_ntp.send_keys(Keys.DELETE)        
         opt_ntp.send_keys(ntp_address)
-        opt_accept_save = driver.find_element_by_xpath('//*[@id="subPage"]/div[2]/div/button[1]')
+        opt_accept_save = driver.find_element("xpath", '//*[@id="subPage"]/div[2]/div/button[1]')
         opt_accept_save.click()        
         try:
             opt_net_basic = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[4]/div[2]/div/ul/li[1]')))
@@ -214,4 +216,4 @@ def first_look(link_to_cam):
 for link_to_cam in tqdm(cameras_ip):
     first_look(link_to_cam)
 
-driver.quit()            
+# driver.quit()            
