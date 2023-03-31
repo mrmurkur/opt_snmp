@@ -14,14 +14,14 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
-import pass as pw
+import pass as cfg
 options = webdriver.ChromeOptions()
 #options.add_argument("--no-sandbox")
 #options.add_argument("--headless")
 #driver = webdriver.Chrome(service=Service(executable_path="/home/milov/python/opt_snmp/chromedriver"), options=options)
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-pass_to_cam = pw.pass_to_cam
+pass_to_cam = cfg.pass_to_cam
 file_path_suc = "/home/milov/python/opt_snmp/log_snmp_cam_suc.txt"
 file_path_fail = "/home/milov/python/opt_snmp/log_snmp_cam_fail.txt"
 optimus_path_fail = "/home/milov/python/opt_snmp/log_optimus_snmp_cam_fail.txt"
