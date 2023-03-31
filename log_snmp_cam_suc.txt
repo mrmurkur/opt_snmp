@@ -1,0 +1,12 @@
+2023-02-20-16-41-34 10.9.150.231 dahua snmp v2 enabled
+2023-02-20-16-42-26 10.9.153.77 dahua snmp v2 enabled
+2023-02-20-16-42-43 10.9.153.81 dahua snmp v2 enabled
+2023-02-20-16-43-39 10.9.154.39 optimus snmp v2 enabled
+2023-02-20-16-44-06 10.9.155.228 optimus snmp v2 enabled
+2023-02-20-16-44-22 10.9.155.229 optimus snmp v2 enabled
+2023-02-20-16-44-48 10.9.156.166 optimus snmp v2 enabled
+2023-02-20-16-46-18 10.9.158.3 optimus snmp v2 enabled
+2023-02-20-16-47-10 10.9.159.35 optimus snmp v2 enabled
+2023-02-20-16-47-37 10.9.159.98 optimus snmp v2 enabled
+2023-02-20-16-47-52 10.9.160.227 optimus snmp v2 enabled
+2023-02-20-16-52-30 10.9.162.195 optimus snmp v2 enabled

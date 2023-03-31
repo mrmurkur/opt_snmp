@@ -1,0 +1,1262 @@
+2023-02-20-16-43-26 10.9.154.37 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-46-30 10.9.159.131 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-46-39 10.9.159.132 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-46-56 10.9.159.34 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-47-19 10.9.159.36 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-48-11 10.9.160.3 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-48-25 10.9.160.34 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-48-36 10.9.160.6 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-48-52 10.9.161.10 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-49-08 10.9.161.101 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-49-21 10.9.161.105 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-49-36 10.9.161.106 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-49-56 10.9.161.108 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-50-17 10.9.161.66 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-50-40 10.9.161.7 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-50-47 10.9.161.8 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-51-03 10.9.161.98 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-51-13 10.9.161.99 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-51-55 10.9.162.163 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-52-09 10.9.162.194 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-52-38 10.9.162.197 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-52-53 10.9.162.226 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-53-15 10.9.162.66 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-53-30 10.9.163.162 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-53-41 10.9.163.163 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-54-17 10.9.163.194 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-54-30 10.9.163.195 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-54-46 10.9.163.196 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-55-02 10.9.163.197 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-55-40 10.9.163.199 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-55-58 10.9.163.200 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-56-11 10.9.164.130 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-56-34 10.9.173.226 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-56-49 109.110.43.94 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-57-07 172.27.40.10 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-57-41 172.27.40.11 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-57-51 172.27.40.12 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-58-03 172.27.40.132 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-58-19 172.27.40.19 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-58-27 172.27.40.20 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-58-57 172.27.40.25 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="remoteSetting"]/section/main/div[4]/div/div[1]/ul/li[3]"}
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-16-59-03 172.27.40.27 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-59-18 172.27.40.31 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-16-59-47 172.27.40.32 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-17-00-01 172.27.40.34 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-17-00-13 172.27.40.46 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-17-00-39 172.27.40.60 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-17-01-19 172.27.40.72 FAILED because Message: 
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x56186059dcaa <unknown>
+#3 0x56186059ddb1 <unknown>
+#4 0x5618605db8f4 <unknown>
+#5 0x5618605c161d <unknown>
+#6 0x5618605d9619 <unknown>
+#7 0x5618605c1353 <unknown>
+#8 0x561860590e40 <unknown>
+#9 0x561860592038 <unknown>
+#10 0x5618607e68be <unknown>
+#11 0x5618607ea8f0 <unknown>
+#12 0x5618607caf90 <unknown>
+#13 0x5618607ebb7d <unknown>
+#14 0x5618607bc578 <unknown>
+#15 0x561860810348 <unknown>
+#16 0x5618608104d6 <unknown>
+#17 0x56186082a341 <unknown>
+#18 0x7fb1d515a609 start_thread
+
+2023-02-20-17-01-27 172.27.40.73 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
+2023-02-20-17-01-37 172.27.40.9 FAILED because Message: element click intercepted: Element <div class="item">...</div> is not clickable at point (873, 57). Other element would receive the click: <div id="id_menu_mask" style="display: block;"></div>
+  (Session info: chrome=110.0.5481.77)
+Stacktrace:
+#0 0x561860792d93 <unknown>
+#1 0x5618605612d7 <unknown>
+#2 0x5618605a4565 <unknown>
+#3 0x5618605a25a2 <unknown>
+#4 0x5618605a00ce <unknown>
+#5 0x56186059f26d <unknown>
+#6 0x561860592ff5 <unknown>
+#7 0x5618605c15f2 <unknown>
+#8 0x561860592873 <unknown>
+#9 0x5618605c181e <unknown>
+#10 0x5618605d9619 <unknown>
+#11 0x5618605c1353 <unknown>
+#12 0x561860590e40 <unknown>
+#13 0x561860592038 <unknown>
+#14 0x5618607e68be <unknown>
+#15 0x5618607ea8f0 <unknown>
+#16 0x5618607caf90 <unknown>
+#17 0x5618607ebb7d <unknown>
+#18 0x5618607bc578 <unknown>
+#19 0x561860810348 <unknown>
+#20 0x5618608104d6 <unknown>
+#21 0x56186082a341 <unknown>
+#22 0x7fb1d515a609 start_thread
+
