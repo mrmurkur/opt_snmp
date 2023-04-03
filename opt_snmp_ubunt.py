@@ -18,10 +18,10 @@ import configparser
 options = webdriver.ChromeOptions()
 #options.add_argument("--no-sandbox")
 #options.add_argument("--headless")
-#driver = webdriver.Chrome(service=Service(executable_path="/home/milov/python/opt_snmp/chromedriver"), options=options)
+#driver = webdriver.Chrome(service=Service(executable_path="chromedriver"), options=options)
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-config = configparser.ConfigParser()  # создаём объекта парсера
+config = configparser.ConfigParser()
 config.read("cam_config.ini") 
 pass_to_cam = config["pass"]["pass_to_cam"]
 file_path_suc = config["path_to_file"]["file_path_suc"]
@@ -31,34 +31,34 @@ dahua_path_fail = config["path_to_file"]["dahua_path_fail"]
 hikvision_path_file = config["path_to_file"]["hikvision_path_file"]
 ntp_address = config["ntp"]["ntp_address"]
 
-# with open('/home/milov/python/opt_snmp/cameras.txt', 'r') as f:
-with open('/home/milov/python/opt_snmp/test.txt', 'r') as f:
+# with open('cameras.txt', 'r') as f:
+with open('test.txt', 'r') as f:
     cameras_ip = f.read().splitlines()
 
 def dahua_snmp(cam):
     try:
-        # driver.get("http://" + cam)
-        el = driver.find_element(By.ID, 'login_user')
-        el.send_keys('admin')
-        # driver.implicitly_wait(5)
-        el2 = driver.find_element(By.ID, 'login_psw')
+        dahua_login = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="login_user"]')))
+        dahua_login.send_keys('admin')
+        el2 = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="login_psw"]')))
         el2.send_keys(pass_to_cam)
         el2.send_keys(Keys.RETURN)
-        settings = WebDriverWait(driver, 25).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="main"]/ul/li[6]/span')))
+        time.sleep(1)          
+        settings = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="main"]/ul/li[6]/span')))
         settings.click()
-        system_menu = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[5]/a/span')))
+        time.sleep(3)        
+        system_menu = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[5]/a/span')))
         system_menu.click()
-        system_basic = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[5]/ul/li[1]/span')))
+        system_basic = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[5]/ul/li[1]/span')))
         system_basic.click()
-        system_date = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, ' //*[@id="page_generalConfig"]/ul/li[2]')))
+        system_date = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, ' //*[@id="page_generalConfig"]/ul/li[2]')))
         system_date.click()     
-        ntp = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="gen_NTPServer"]')))
+        ntp = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="gen_NTPServer"]')))
         ntp.send_keys(Keys.CONTROL + "a")
         ntp.send_keys(Keys.DELETE)        
         ntp.send_keys(ntp_address)
         accept_save = driver.find_element("xpath",'//*[@id="page_generalConfig"]/div/div[2]/div[15]/a[3]')
         accept_save.click()           
-        net = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[2]/a/span')))
+        net = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[2]/a/span')))
         net.click()
         time.sleep(3)
         try:
@@ -97,13 +97,19 @@ def dahua_snmp(cam):
         save_button = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[10]/a[3]')
         save_button.click()
         time.sleep(1)
-        accept_save = driver.find_element("xpath", '//*[@id="snmp_tip_dialog"]/div[3]/div/a[1]')
+        try:
+            accept_save = driver.find_element("xpath", '//*[@id="snmp_tip_dialog"]/div[3]/div/a[1]')
+        except:
+            accept_save = driver.find_element("xpath", '/html/body/div[18]/div[3]/div/a[1]')            
         accept_save.click()
         time.sleep(1)
         try:
             dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[16]/div[3]/a[1]')
         except:
-            dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[18]/div[3]/a[1]')
+            try:
+                dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[18]/div[3]/a[1]')
+            except:
+                dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[19]/div[3]/a[1]')
         dialog.click()
         with open(file_path_suc, 'a') as file:
             print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "dahua snmp v2 enabled", file = file)
@@ -129,8 +135,13 @@ def hikvision(link_to_cam):
         hik_ntp.send_keys(Keys.CONTROL + "a")
         hik_ntp.send_keys(Keys.DELETE)        
         hik_ntp.send_keys(ntp_address)
-        hik_accept_save = driver.find_element("xpath", '//*[@id="settingTime"]/button')
-        hik_accept_save.click()
+        hik_ntp.send_keys(Keys.RETURN)
+        try:
+            hik_accept_save = driver.find_element("xpath", '/html/body/div[4]/div[1]/div/div/div[2]/div/button')
+        except:
+            hik_accept_save = driver.find_element("xpath", '/html/body/div[4]/div[1]/div/div/div[2]/div/button/span[2]')
+        driver.execute_script("arguments[0].click();", hik_accept_save)
+        time.sleep(2)        
         with open(file_path_suc, 'a') as file:
             print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), link_to_cam, "hikvision ntp enabled", file = file)
     except Exception as exc:
@@ -140,7 +151,7 @@ def hikvision(link_to_cam):
 def optimus_snmp_ntp(cam):
     try:
         driver.get("http://" + cam)
-        opt_login = WebDriverWait(driver, 25).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]/div/div[2]/div[2]/div[1]/div/div/input')))
+        opt_login = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/div/div[2]/div[2]/div[1]/div/div/input')))
         opt_login.send_keys('admin')
         time.sleep(1)
         opt_passw = driver.find_element("xpath", '/html/body/div[1]/div/div[2]/div[2]/div[2]/div/div[1]/input')
@@ -149,34 +160,56 @@ def optimus_snmp_ntp(cam):
         opt_passw.send_keys(Keys.RETURN) 
         opt_settings = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="mainContainer"]/section/header/div[2]/div/div[1]/div/ul/li[1]/div')))
         driver.execute_script("arguments[0].click();", opt_settings)
+        time.sleep(1)
         opt_basic = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[6]/div[2]/div/ul/li[1]')))
         driver.execute_script("arguments[0].click();", opt_basic)
         time.sleep(1)
-        opt_ntp = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div[6]/div/div[2]/input')))
+        opt_time = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/section/div[3]/div/div/section/main/div[6]/div/div[1]/ul/li[1]')))
+        driver.execute_script("arguments[0].click();", opt_time)
+        time.sleep(1)
+        opt_timezone = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/section/div[3]/div/div/section/main/div[7]/div[1]/div/div/div[3]/div/div/div/input')))
+        driver.execute_script("arguments[0].click();", opt_timezone)        
+        opt_timezone_select = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[5]/div[1]/div[1]/ul/li[31]')))
+        driver.execute_script("arguments[0].click();", opt_timezone_select)        
+        try:
+            opt_select = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/section/div[3]/div/div/section/main/div[7]/div[1]/div/div/div[6]/div/div[1]/div[1]/input')))
+            opt_select.click()
+            opt_select_user = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[5]/div[1]/div[1]/ul/li[4]/span')))
+            opt_select_user.click()
+            opt_ntp = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div[6]/div/div[2]/input')))        
+        except:
+            opt_ntp = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div[6]/div/div[2]/input')))
         opt_ntp.send_keys(Keys.CONTROL + "a")
-        opt_ntp.send_keys(Keys.DELETE)        
+        opt_ntp.send_keys(Keys.DELETE)
         opt_ntp.send_keys(ntp_address)
         opt_accept_save = driver.find_element("xpath", '//*[@id="subPage"]/div[2]/div/button[1]')
-        opt_accept_save.click()
-        time.sleep(5)                
+        driver.execute_script("arguments[0].click();", opt_accept_save)
+        time.sleep(7)
         try:
-            opt_net_basic = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[4]/div[2]/div/ul/li[1]')))
-            opt_net_basic.click()
+            opt_net_basic = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[4]/div[2]/div/ul/li[1]')))
         except:
-            opt_net_basic = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[6]/div[2]/div/ul/li[1]'))) 
-            opt_net_basic.click()
-        opt_snmp_menu = driver.find_element("xpath", '//*[@id="remoteSetting"]/section/main/div[4]/div/div[1]/ul/li[3]') 
-        opt_snmp_menu.click()
-        snmp_checkbox_form = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div/div[1]/div/div/span')))
+            opt_net_basic = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[6]/div[2]/div/ul/li[1]'))) 
+        driver.execute_script("arguments[0].click();", opt_net_basic)
+        time.sleep(5)
+        opt_snmp_menu = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/main/div[4]/div/div[1]/ul/li[3]')))
+        driver.execute_script("arguments[0].click();", opt_snmp_menu)
+        time.sleep(1)
+        driver.execute_script("arguments[0].click();", opt_snmp_menu)   
+        time.sleep(1)
+        opt_snmp_menu.click()             
+        try: 
+            snmp_checkbox_form = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div/div[1]/div/div/span'))) 
+        except:
+            snmp_checkbox_form = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/section/div[3]/div/div/section/main/div[7]/div[1]/div/div/div/div[1]/div/div/span')))
         if snmp_checkbox_form.is_selected():
             pass
         else:
-            snmp_checkbox_form.click()
+            driver.execute_script("arguments[0].click();", snmp_checkbox_form)
         time.sleep(3)
         driver.find_element("xpath", "//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']").click()
         time.sleep(3)
         driver.find_element("xpath", '//div[@class="el-select-dropdown el-popper"]//ul[@class="el-scrollbar__view el-select-dropdown__list"]/li/span[contains(text(),"V2")]').click()
-        trap_address = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div/div[6]/div/div/input')))
+        trap_address = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div/div[6]/div/div/input')))
         trap_address.send_keys(Keys.CONTROL + "a")
         trap_address.send_keys(Keys.DELETE)
         trap_address.send_keys('192.168.168.2')
