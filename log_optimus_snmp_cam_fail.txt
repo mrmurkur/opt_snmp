@@ -4576,3 +4576,30 @@ Stacktrace:
 #17 0x555b24503341 <unknown>
 #18 0x7fae8e7a5609 start_thread
 
+2023-04-03-11-39-42 10.39.0.81 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x55b9e95b2d93 <unknown>
+#1 0x55b9e93812d7 <unknown>
+#2 0x55b9e93c4565 <unknown>
+#3 0x55b9e93c25a2 <unknown>
+#4 0x55b9e93c00ce <unknown>
+#5 0x55b9e93bf26d <unknown>
+#6 0x55b9e93b2ff5 <unknown>
+#7 0x55b9e93e15f2 <unknown>
+#8 0x55b9e93b2873 <unknown>
+#9 0x55b9e93e181e <unknown>
+#10 0x55b9e93f9619 <unknown>
+#11 0x55b9e93e1353 <unknown>
+#12 0x55b9e93b0e40 <unknown>
+#13 0x55b9e93b2038 <unknown>
+#14 0x55b9e96068be <unknown>
+#15 0x55b9e960a8f0 <unknown>
+#16 0x55b9e95eaf90 <unknown>
+#17 0x55b9e960bb7d <unknown>
+#18 0x55b9e95dc578 <unknown>
+#19 0x55b9e9630348 <unknown>
+#20 0x55b9e96304d6 <unknown>
+#21 0x55b9e964a341 <unknown>
+#22 0x7ffa3e767609 start_thread
+
