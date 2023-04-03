@@ -1,0 +1,4578 @@
+2023-03-31-17-12-52 10.39.0.113 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-14-41 10.39.0.178 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-15-17 10.39.0.18 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-16-31 10.39.0.41 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-17-16 10.39.0.42 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-18-04 10.39.0.43 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-18-38 10.39.0.65 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-18-54 10.39.0.81 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-20-46 10.9.128.102 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-21-25 10.9.128.103 FAILED because Message: element click intercepted: Element <li class="subActive">...</li> is not clickable at point (43, 771). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-23-08 10.9.130.102 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-23-26 10.9.130.103 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-24-13 10.9.130.131 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-24-57 10.9.130.132 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-26-11 10.9.134.198 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-26-27 10.9.134.199 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-26-42 10.9.134.200 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-27-24 10.9.134.5 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-28-19 10.9.135.102 FAILED because Message: element click intercepted: Element <li class="subActive">...</li> is not clickable at point (43, 771). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-28-57 10.9.135.103 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-29-41 10.9.136.226 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-30-09 10.9.136.227 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-31-07 10.9.137.69 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-31-45 10.9.140.130 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-32-00 10.9.140.131 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-32-15 10.9.140.132 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-32-30 10.9.140.133 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-32-45 10.9.140.134 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-33-00 10.9.140.135 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-33-15 10.9.140.136 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-33-40 10.9.141.100 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-33-56 10.9.141.101 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-34-11 10.9.141.162 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-34-26 10.9.141.163 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-35-15 10.9.141.195 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-36-00 10.9.141.196 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-36-44 10.9.141.197 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-37-15 10.9.141.226 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-37-49 10.9.141.227 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-38-04 10.9.141.66 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-38-19 10.9.141.67 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-38-34 10.9.141.68 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-38-49 10.9.141.69 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-39-04 10.9.141.70 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-39-19 10.9.141.98 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-39-56 10.9.147.100 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-40-43 10.9.149.170 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-41-21 10.9.149.171 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-42-07 10.9.149.172 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-42-38 10.9.149.173 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-43-35 10.9.149.174 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-44-20 10.9.149.175 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-45-21 10.9.149.176 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-46-14 10.9.149.177 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-46-56 10.9.149.178 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-47-51 10.9.149.228 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-48-23 10.9.150.194 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-50-40 10.9.150.4 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-51-15 10.9.153.2 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-51-44 10.9.153.230 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-52-17 10.9.153.3 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-52-49 10.9.153.35 FAILED because Message: element click intercepted: Element <li class="subActive">...</li> is not clickable at point (43, 771). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-53-33 10.9.153.37 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-53-48 10.9.153.38 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-54-03 10.9.153.4 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-54-28 10.9.153.67 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-55-03 10.9.153.68 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-55-17 10.9.153.69 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-55-33 10.9.153.70 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-56-07 10.9.153.71 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-56-42 10.9.153.72 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-57-15 10.9.153.73 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-57-31 10.9.153.74 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-17-58-04 10.9.153.75 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-58-30 10.9.153.76 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-17-59-16 10.9.153.80 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-00-36 10.9.154.37 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-00-54 10.9.154.38 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-01-27 10.9.154.39 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-04-07 10.9.155.228 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-04-41 10.9.155.229 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-05-02 10.9.155.230 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-06-30 10.9.156.166 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-08-07 10.9.157.171 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-11-32 10.9.157.37 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-12-09 10.9.157.38 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-12-26 10.9.157.39 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-13-00 10.9.157.4 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-14-29 10.9.158.131 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-15-22 10.9.158.162 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-16-34 10.9.158.194 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-17-12 10.9.158.195 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-18-08 10.9.158.196 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-18-46 10.9.158.2 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-20-00 10.9.158.3 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-20-33 10.9.158.4 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-21-11 10.9.158.5 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-22-01 10.9.158.67 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-22-27 10.9.158.68 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-23-01 10.9.158.69 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-24-00 10.9.159.131 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-24-44 10.9.159.132 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-26-23 10.9.159.226 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-27-00 10.9.159.34 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-27-20 10.9.159.35 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-27-39 10.9.159.36 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="remoteSetting"]/section/main/div[4]/div/div[1]/ul/li[3]"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-28-31 10.9.159.98 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-29-03 10.9.160.130 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-29-48 10.9.160.131 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-30-26 10.9.160.134 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-31-13 10.9.160.2 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-31-47 10.9.160.226 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-32-19 10.9.160.227 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-33-45 10.9.160.3 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-34-18 10.9.160.34 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-34-58 10.9.160.4 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-35-40 10.9.160.5 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-36-19 10.9.160.6 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-37-15 10.9.161.10 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-38-00 10.9.161.101 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-38-56 10.9.161.102 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-39-25 10.9.161.103 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-40-04 10.9.161.104 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-40-33 10.9.161.105 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-41-34 10.9.161.106 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-42-37 10.9.161.108 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-43-10 10.9.161.11 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-43-42 10.9.161.12 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-44-18 10.9.161.13 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-46-51 10.9.161.34 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-47-24 10.9.161.6 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-48-12 10.9.161.66 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-48-54 10.9.161.67 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-49-28 10.9.161.69 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-50-20 10.9.161.8 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-50-51 10.9.161.9 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-51-34 10.9.161.98 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-52-11 10.9.161.99 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-55-52 10.9.162.162 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-56-33 10.9.162.163 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-57-13 10.9.162.194 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-57-43 10.9.162.195 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-18-58-23 10.9.162.196 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-59-03 10.9.162.197 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-18-59-43 10.9.162.226 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-00-59 10.9.162.66 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-01-39 10.9.162.98 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-02-07 10.9.162.99 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-19-02-23 10.9.163.162 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-19-02-57 10.9.163.163 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-03-39 10.9.163.194 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-04-22 10.9.163.195 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-05-01 10.9.163.196 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-05-39 10.9.163.197 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-07-21 10.9.163.199 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-08-44 10.9.163.200 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-09-25 10.9.163.226 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-10-05 10.9.163.227 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-11-12 10.9.163.228 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-11-49 10.9.163.229 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-13-17 10.9.163.66 FAILED because Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='el-input el-input--suffix']//input[@placeholder='пожалуйста, выбери']"}
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-14-21 10.9.163.98 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-14-40 10.9.163.99 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-19-15-22 10.9.164.130 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-16-30 10.9.164.194 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-17-09 10.9.164.195 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-17-42 10.9.164.2 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-18-54 10.9.164.66 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-19-29 10.9.164.67 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-20-03 10.9.164.68 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-22-31 10.9.165.34 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-26-00 10.9.167.162 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-26-47 10.9.167.163 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-27-33 10.9.167.226 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-28-15 10.9.167.227 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-29-41 10.9.169.162 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-35-24 10.9.173.226 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-19-36-24 10.9.174.226 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-37-24 10.9.248.6 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-38-08 10.9.250.5 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-38-23 10.9.250.6 FAILED because Message: element click intercepted: Element <li role="menuitem" tabindex="0" class="el-menu-item" title="" style="border-bottom-color: transparent;">...</li> is not clickable at point (455, 110). Other element would receive the click: <iframe style="display: block;" id="id_iframe_shade" class="cls_iframe_shade cls_iframe_shade_ex"></iframe>
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958ca565 <unknown>
+#3 0x558b958c85a2 <unknown>
+#4 0x558b958c60ce <unknown>
+#5 0x558b958c526d <unknown>
+#6 0x558b958b8ff5 <unknown>
+#7 0x558b958e75f2 <unknown>
+#8 0x558b958b8873 <unknown>
+#9 0x558b958e781e <unknown>
+#10 0x558b958ff619 <unknown>
+#11 0x558b958e7353 <unknown>
+#12 0x558b958b6e40 <unknown>
+#13 0x558b958b8038 <unknown>
+#14 0x558b95b0c8be <unknown>
+#15 0x558b95b108f0 <unknown>
+#16 0x558b95af0f90 <unknown>
+#17 0x558b95b11b7d <unknown>
+#18 0x558b95ae2578 <unknown>
+#19 0x558b95b36348 <unknown>
+#20 0x558b95b364d6 <unknown>
+#21 0x558b95b50341 <unknown>
+#22 0x7f223019a609 start_thread
+
+2023-03-31-19-39-10 109.110.43.94 FAILED because Message: element not interactable
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b9588715d <unknown>
+#2 0x558b958bd78c <unknown>
+#3 0x558b958bcf9e <unknown>
+#4 0x558b958e75f2 <unknown>
+#5 0x558b958b8873 <unknown>
+#6 0x558b958e781e <unknown>
+#7 0x558b958ff619 <unknown>
+#8 0x558b958e7353 <unknown>
+#9 0x558b958b6e40 <unknown>
+#10 0x558b958b8038 <unknown>
+#11 0x558b95b0c8be <unknown>
+#12 0x558b95b108f0 <unknown>
+#13 0x558b95af0f90 <unknown>
+#14 0x558b95b11b7d <unknown>
+#15 0x558b95ae2578 <unknown>
+#16 0x558b95b36348 <unknown>
+#17 0x558b95b364d6 <unknown>
+#18 0x558b95b50341 <unknown>
+#19 0x7f223019a609 start_thread
+
+2023-03-31-19-39-46 172.27.40.10 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-40-30 172.27.40.11 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-41-11 172.27.40.12 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-41-37 172.27.40.132 FAILED because Message: element not interactable
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b9588715d <unknown>
+#2 0x558b958bd78c <unknown>
+#3 0x558b958bcf9e <unknown>
+#4 0x558b958e75f2 <unknown>
+#5 0x558b958b8873 <unknown>
+#6 0x558b958e781e <unknown>
+#7 0x558b958ff619 <unknown>
+#8 0x558b958e7353 <unknown>
+#9 0x558b958b6e40 <unknown>
+#10 0x558b958b8038 <unknown>
+#11 0x558b95b0c8be <unknown>
+#12 0x558b95b108f0 <unknown>
+#13 0x558b95af0f90 <unknown>
+#14 0x558b95b11b7d <unknown>
+#15 0x558b95ae2578 <unknown>
+#16 0x558b95b36348 <unknown>
+#17 0x558b95b364d6 <unknown>
+#18 0x558b95b50341 <unknown>
+#19 0x7f223019a609 start_thread
+
+2023-03-31-19-42-28 172.27.40.19 FAILED because Message: element not interactable
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b9588715d <unknown>
+#2 0x558b958bd78c <unknown>
+#3 0x558b958bcf9e <unknown>
+#4 0x558b958e75f2 <unknown>
+#5 0x558b958b8873 <unknown>
+#6 0x558b958e781e <unknown>
+#7 0x558b958ff619 <unknown>
+#8 0x558b958e7353 <unknown>
+#9 0x558b958b6e40 <unknown>
+#10 0x558b958b8038 <unknown>
+#11 0x558b95b0c8be <unknown>
+#12 0x558b95b108f0 <unknown>
+#13 0x558b95af0f90 <unknown>
+#14 0x558b95b11b7d <unknown>
+#15 0x558b95ae2578 <unknown>
+#16 0x558b95b36348 <unknown>
+#17 0x558b95b364d6 <unknown>
+#18 0x558b95b50341 <unknown>
+#19 0x7f223019a609 start_thread
+
+2023-03-31-19-43-06 172.27.40.20 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-44-04 172.27.40.25 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-44-56 172.27.40.27 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-46-18 172.27.40.31 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-47-03 172.27.40.32 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-47-56 172.27.40.34 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-50-09 172.27.40.46 FAILED because Message: element not interactable
+  (Session info: chrome=110.0.5481.100)
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b9588715d <unknown>
+#2 0x558b958bd78c <unknown>
+#3 0x558b958bcf9e <unknown>
+#4 0x558b958e75f2 <unknown>
+#5 0x558b958b8873 <unknown>
+#6 0x558b958e781e <unknown>
+#7 0x558b958ff619 <unknown>
+#8 0x558b958e7353 <unknown>
+#9 0x558b958b6e40 <unknown>
+#10 0x558b958b8038 <unknown>
+#11 0x558b95b0c8be <unknown>
+#12 0x558b95b108f0 <unknown>
+#13 0x558b95af0f90 <unknown>
+#14 0x558b95b11b7d <unknown>
+#15 0x558b95ae2578 <unknown>
+#16 0x558b95b36348 <unknown>
+#17 0x558b95b364d6 <unknown>
+#18 0x558b95b50341 <unknown>
+#19 0x7f223019a609 start_thread
+
+2023-03-31-19-51-39 172.27.40.60 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-53-39 172.27.40.72 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-54-15 172.27.40.73 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-03-31-19-55-49 172.27.40.9 FAILED because Message: 
+Stacktrace:
+#0 0x558b95ab8d93 <unknown>
+#1 0x558b958872d7 <unknown>
+#2 0x558b958c3caa <unknown>
+#3 0x558b958c3db1 <unknown>
+#4 0x558b959018f4 <unknown>
+#5 0x558b958e761d <unknown>
+#6 0x558b958ff619 <unknown>
+#7 0x558b958e7353 <unknown>
+#8 0x558b958b6e40 <unknown>
+#9 0x558b958b8038 <unknown>
+#10 0x558b95b0c8be <unknown>
+#11 0x558b95b108f0 <unknown>
+#12 0x558b95af0f90 <unknown>
+#13 0x558b95b11b7d <unknown>
+#14 0x558b95ae2578 <unknown>
+#15 0x558b95b36348 <unknown>
+#16 0x558b95b364d6 <unknown>
+#17 0x558b95b50341 <unknown>
+#18 0x7f223019a609 start_thread
+
+2023-04-03-10-55-02 10.39.0.81 FAILED because Message: 
+Stacktrace:
+#0 0x555b2446bd93 <unknown>
+#1 0x555b2423a2d7 <unknown>
+#2 0x555b24276caa <unknown>
+#3 0x555b24276db1 <unknown>
+#4 0x555b242b48f4 <unknown>
+#5 0x555b2429a61d <unknown>
+#6 0x555b242b2619 <unknown>
+#7 0x555b2429a353 <unknown>
+#8 0x555b24269e40 <unknown>
+#9 0x555b2426b038 <unknown>
+#10 0x555b244bf8be <unknown>
+#11 0x555b244c38f0 <unknown>
+#12 0x555b244a3f90 <unknown>
+#13 0x555b244c4b7d <unknown>
+#14 0x555b24495578 <unknown>
+#15 0x555b244e9348 <unknown>
+#16 0x555b244e94d6 <unknown>
+#17 0x555b24503341 <unknown>
+#18 0x7fae8e7a5609 start_thread
+

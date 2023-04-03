@@ -157,15 +157,14 @@ def optimus_snmp_ntp(cam):
         opt_ntp.send_keys(Keys.DELETE)        
         opt_ntp.send_keys(ntp_address)
         opt_accept_save = driver.find_element("xpath", '//*[@id="subPage"]/div[2]/div/button[1]')
-        opt_accept_save.click()        
+        opt_accept_save.click()
+        time.sleep(5)                
         try:
             opt_net_basic = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[4]/div[2]/div/ul/li[1]')))
             opt_net_basic.click()
-            time.sleep(1)
         except:
             opt_net_basic = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="remoteSetting"]/section/aside/div/div[6]/div[2]/div/ul/li[1]'))) 
             opt_net_basic.click()
-            time.sleep(1)
         opt_snmp_menu = driver.find_element("xpath", '//*[@id="remoteSetting"]/section/main/div[4]/div/div[1]/ul/li[3]') 
         opt_snmp_menu.click()
         snmp_checkbox_form = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="subPage"]/div[1]/div/div/div/div[1]/div/div/span')))
@@ -216,4 +215,4 @@ def first_look(link_to_cam):
 for link_to_cam in tqdm(cameras_ip):
     first_look(link_to_cam)
 
-# driver.quit()            
+driver.quit()            
