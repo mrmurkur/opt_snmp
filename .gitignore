@@ -1,1 +1,4 @@
 cam_config.ini
+*.log
+cameras.txt
+test.txt

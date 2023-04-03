@@ -28,7 +28,7 @@ file_path_suc = config["path_to_file"]["file_path_suc"]
 file_path_fail = config["path_to_file"]["file_path_fail"]
 optimus_path_fail = config["path_to_file"]["optimus_path_fail"]
 dahua_path_fail = config["path_to_file"]["dahua_path_fail"]
-hikvision_path_file = config["path_to_file"]["hikvision_path_fail"]
+hikvision_path_file = config["path_to_file"]["hikvision_path_file"]
 ntp_address = config["ntp"]["ntp_address"]
 
 # with open('/home/milov/python/opt_snmp/cameras.txt', 'r') as f:
