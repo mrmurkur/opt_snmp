@@ -22,14 +22,14 @@ options = webdriver.ChromeOptions()
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 config = configparser.ConfigParser()  # создаём объекта парсера
-config.read("cam_config.ini")  # читаем конфиг
+config.read("cam_config.ini") 
 pass_to_cam = config["pass"]["pass_to_cam"]
-file_path_suc = "/home/milov/python/opt_snmp/log_snmp_cam_suc.txt"
-file_path_fail = "/home/milov/python/opt_snmp/log_snmp_cam_fail.txt"
-optimus_path_fail = "/home/milov/python/opt_snmp/log_optimus_snmp_cam_fail.txt"
-dahua_path_fail = "/home/milov/python/opt_snmp/log_dahua_snmp_cam_fail.txt"
-hikvision_path_file = "/home/milov/python/opt_snmp/hikvision_cam_fail.txt"
-ntp_address = "10.78.0.89"
+file_path_suc = config["path_to_file"]["file_path_suc"]
+file_path_fail = config["path_to_file"]["file_path_fail"]
+optimus_path_fail = config["path_to_file"]["optimus_path_fail"]
+dahua_path_fail = config["path_to_file"]["dahua_path_fail"]
+hikvision_path_file = config["path_to_file"]["hikvision_path_fail"]
+ntp_address = config["ntp"]["ntp_address"]
 
 # with open('/home/milov/python/opt_snmp/cameras.txt', 'r') as f:
 with open('/home/milov/python/opt_snmp/test.txt', 'r') as f:
