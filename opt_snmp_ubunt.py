@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException
 import configparser
 options = webdriver.ChromeOptions()
 #options.add_argument("--no-sandbox")
@@ -31,8 +30,8 @@ dahua_path_fail = config["path_to_file"]["dahua_path_fail"]
 hikvision_path_file = config["path_to_file"]["hikvision_path_file"]
 ntp_address = config["ntp"]["ntp_address"]
 
-# with open('cameras.txt', 'r') as f:
-with open('test.txt', 'r') as f:
+with open('cameras.txt', 'r') as f:
+# with open('test.txt', 'r') as f:
     cameras_ip = f.read().splitlines()
 
 def dahua_snmp(cam):
@@ -245,7 +244,8 @@ def first_look(link_to_cam):
     else: 
         with open(file_path_fail, 'a') as file:
             print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), link_to_cam, "unreachable", file = file) 
-for link_to_cam in tqdm(cameras_ip):
-    first_look(link_to_cam)
 
-driver.quit()            
+if __name__ == "__main__":
+    for link_to_cam in tqdm(cameras_ip):
+        first_look(link_to_cam)
+    driver.quit()            
