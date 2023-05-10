@@ -14,6 +14,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import configparser
+import random
 options = webdriver.ChromeOptions()
 #options.add_argument("--no-sandbox")
 #options.add_argument("--headless")
@@ -29,6 +30,14 @@ optimus_path_fail = config["path_to_file"]["optimus_path_fail"]
 dahua_path_fail = config["path_to_file"]["dahua_path_fail"]
 hikvision_path_file = config["path_to_file"]["hikvision_path_file"]
 ntp_address = config["ntp"]["ntp_address"]
+
+
+chars = '_abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
+def password_gen(length = 8):
+    password =''
+    for i in range(length):
+        password += random.choice(chars)
+    return password
 
 with open('cameras.txt', 'r') as f:
 # with open('test.txt', 'r') as f:
