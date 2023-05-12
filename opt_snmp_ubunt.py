@@ -199,7 +199,7 @@ def hikvision(link_to_cam):
             hik_exit_ok = driver.find_element("xpath", '/html/body/div[1]/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td/div/button[1]')
             hik_exit_ok.click()    
         with open(file_path_suc, 'a') as file:
-            print(link_to_cam, new_pass_to_cam , file = file)        
+            print(link_to_cam, new_pass_to_cam, file = file)        
     except Exception as exc:
         with open(hikvision_path_file, 'a') as file:
             print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), link_to_cam, "FAILED because", exc, file = file)
