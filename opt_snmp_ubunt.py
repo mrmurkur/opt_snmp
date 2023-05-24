@@ -3,6 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.by import By
 import time
 import os
 import datetime
@@ -41,8 +43,9 @@ def password_gen(length = 8):
     return password
 
 # with open('cameras.txt', 'r') as f:
-with open('nhd_step_1.txt', 'r') as f:
+with open('test.txt', 'r') as f:
     cameras_ip = f.read().splitlines()
+
 
 def dahua_snmp(cam):
     try:
@@ -51,77 +54,92 @@ def dahua_snmp(cam):
         el2 = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="login_psw"]')))
         el2.send_keys(pass_to_cam)
         el2.send_keys(Keys.RETURN)
-        time.sleep(1)          
-        settings = WebDriverWait(driver, 25).until(EC.presence_of_element_located((By.XPATH, '//*[@id="main"]/ul/li[6]/span')))
-        settings.click()
-        time.sleep(3)        
-        system_menu = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[5]/a/span')))
-        system_menu.click()
-        system_basic = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[5]/ul/li[1]/span')))
+        try: 
+            settings = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="main"]/ul/li[6]/span')))
+            settings.click()
+        except:
+            settings = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="main"]/ul/li[8]/span')))
+            ActionChains(driver).move_to_element(settings).click(settings).perform()        
+        time.sleep(3)
+        system_menu = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="set-menu"]/li[5]/a/span'))) 
+        driver.execute_script("arguments[0].click();", system_menu)
+        time.sleep(3)
+        system_basic = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="set-menu"]/li[5]/ul/li[1]/span')))
         system_basic.click()
-        system_date = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, ' //*[@id="page_generalConfig"]/ul/li[2]')))
+        system_date = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, ' //*[@id="page_generalConfig"]/ul/li[2]')))
         system_date.click()     
-        ntp = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="gen_NTPServer"]')))
+        ntp = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="gen_NTPServer"]')))
         ntp.send_keys(Keys.CONTROL + "a")
         ntp.send_keys(Keys.DELETE)        
         ntp.send_keys(ntp_address)
-        accept_save = driver.find_element("xpath",'//*[@id="page_generalConfig"]/div/div[2]/div[15]/a[3]')
-        accept_save.click()           
-        net = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[2]/a/span')))
-        net.click()
-        time.sleep(3)
         try:
-            snmp = driver.find_element("xpath", '//*[@title="SNMP"]')
+            accept_save = driver.find_element("xpath",'//*[@id="page_generalConfig"]/div/div[2]/div[15]/a[3]') 
         except:
-            snmp = driver.find_element("xpath", '//*[@id="set-menu"]/li[2]/ul/li[7]/span')
-        snmp.click()
-        time.sleep(3)
-        snmp_checkbox_form = driver.find_element("xpath", '//*[@id="snmp_v2_enable"]')
-        if snmp_checkbox_form.is_selected():
-            pass
-        else:
-            snmp_checkbox_form.click()
-        time.sleep(3)
-        snmp_port = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[3]/input')
-        snmp_port.send_keys(Keys.CONTROL + "a")
-        snmp_port.send_keys(Keys.DELETE)
-        snmp_port.send_keys('161')
-        snmp_read = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[4]/input')
-        snmp_read.send_keys(Keys.CONTROL + "a")
-        snmp_read.send_keys(Keys.DELETE)
-        snmp_read.send_keys('public')
-        snmp_write = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[5]/input')
-        snmp_write.send_keys(Keys.CONTROL + "a")
-        snmp_write.send_keys(Keys.DELETE)
-        snmp_write.send_keys('private')
-        trap_address = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[6]/input')
-        trap_address.send_keys(Keys.CONTROL + "a")
-        trap_address.send_keys(Keys.DELETE)
-        trap_address.send_keys('192.168.168.2')
-        trap_port = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[7]/input')
-        trap_port.send_keys(Keys.CONTROL + "a")
-        trap_port.send_keys(Keys.DELETE)
-        trap_port.send_keys('162')
-        time.sleep(1)
-        save_button = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[10]/a[3]')
-        save_button.click()
-        time.sleep(1)
-        try:
-            accept_save = driver.find_element("xpath", '//*[@id="snmp_tip_dialog"]/div[3]/div/a[1]')
-        except:
-            accept_save = driver.find_element("xpath", '/html/body/div[18]/div[3]/div/a[1]')            
+            accept_save = driver.find_element("xpath", '/html/body/div[2]/div[2]/div[8]/div[1]/div[2]/div/div[2]/div/div[2]/div[17]/a[3]')
         accept_save.click()
-        time.sleep(1)
-        try:
-            dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[16]/div[3]/a[1]')
-        except:
-            try:
-                dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[18]/div[3]/a[1]')
-            except:
-                dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[19]/div[3]/a[1]')
-        dialog.click()
+        time.sleep(3)  
+        ntp_yes = driver.find_element("xpath",'/html/body/div[16]/div[3]/a[1]') 
+        ntp_yes.click()
         with open(file_path_suc, 'a') as file:
-            print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "dahua snmp v2 enabled", file = file)
+            print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "dahua ntp enabled", file = file)
+        try:
+            net = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[2]/a/span')))
+            net.click()
+            time.sleep(3)
+            try:
+                snmp = driver.find_element("xpath", '//*[@title="SNMP"]')
+            except:
+                snmp = driver.find_element("xpath", '//*[@id="set-menu"]/li[2]/ul/li[7]/span')
+            snmp.click()
+            time.sleep(3)
+            snmp_checkbox_form = driver.find_element("xpath", '//*[@id="snmp_v2_enable"]')
+            if snmp_checkbox_form.is_selected():
+                pass
+            else:
+                snmp_checkbox_form.click()
+            time.sleep(3)
+            snmp_port = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[3]/input')
+            snmp_port.send_keys(Keys.CONTROL + "a")
+            snmp_port.send_keys(Keys.DELETE)
+            snmp_port.send_keys('161')
+            snmp_read = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[4]/input')
+            snmp_read.send_keys(Keys.CONTROL + "a")
+            snmp_read.send_keys(Keys.DELETE)
+            snmp_read.send_keys('public')
+            snmp_write = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[5]/input')
+            snmp_write.send_keys(Keys.CONTROL + "a")
+            snmp_write.send_keys(Keys.DELETE)
+            snmp_write.send_keys('private')
+            trap_address = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[6]/input')
+            trap_address.send_keys(Keys.CONTROL + "a")
+            trap_address.send_keys(Keys.DELETE)
+            trap_address.send_keys('192.168.168.2')
+            trap_port = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[7]/input')
+            trap_port.send_keys(Keys.CONTROL + "a")
+            trap_port.send_keys(Keys.DELETE)
+            trap_port.send_keys('162')
+            time.sleep(1)
+            save_button = driver.find_element("xpath", '//*[@id="page_SNMPConfig"]/div/div/div[10]/a[3]')
+            save_button.click()
+            time.sleep(1)
+            try:
+                accept_save = driver.find_element("xpath", '//*[@id="snmp_tip_dialog"]/div[3]/div/a[1]')
+            except:
+                accept_save = driver.find_element("xpath", '/html/body/div[18]/div[3]/div/a[1]')            
+            accept_save.click()
+            time.sleep(1)
+            try:
+                dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[16]/div[3]/a[1]')
+            except:
+                try:
+                    dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[18]/div[3]/a[1]')
+                except:
+                    dialog = driver.find_element("xpath", '//*[@id="ui-id-1"]/div[19]/div[3]/a[1]')
+            dialog.click()
+            with open(file_path_suc, 'a') as file:
+                print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "dahua snmp v2 enabled", file = file)
+        except:
+            pass
     except Exception as exc:
         with open(dahua_path_fail, 'a') as file:
             print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "FAILED because", exc, file = file)
@@ -183,20 +201,20 @@ def hikvision(link_to_cam):
         hik_new_pass.send_keys(new_pass_to_cam)
         hik_acc_pass = driver.find_element("xpath", '//*[@id="userDlg"]/div[4]/div[4]/span[2]/input')
         hik_acc_pass.send_keys(new_pass_to_cam)        
-        hik_accept_save = driver.find_element("xpath", '//*[@id="config"]/div[1]/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td/div/button[1]')
+        hik_accept_save = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="config"]/div[1]/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td/div/button[1]')))
         hik_accept_save.click()
         time.sleep(1)
         try:
-            hik_exit = driver.find_element("xpath", '//*[@id="header"]/div/div[2]/div[5]')
+            hik_exit = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="header"]/div/div[2]/div[5]')))
             hik_exit.click()
         except:
-            hik_exit = driver.find_element("xpath", '//*[@id="header"]/div/div[2]/div[4]')
+            hik_exit = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="header"]/div/div[2]/div[4]')))
             hik_exit.click()
         try:
-            hik_exit_ok = driver.find_element("xpath", '//*[@id="config"]/div[2]/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td/div/button[1]')
+            hik_exit_ok = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="config"]/div[2]/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td/div/button[1]')))
             hik_exit_ok.click()
         except:
-            hik_exit_ok = driver.find_element("xpath", '/html/body/div[1]/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td/div/button[1]')
+            hik_exit_ok = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td/div/button[1]')))
             hik_exit_ok.click()    
         with open(file_path_suc, 'a') as file:
             print(link_to_cam, new_pass_to_cam, file = file)        
@@ -326,4 +344,4 @@ def first_look(link_to_cam):
 if __name__ == "__main__":
     for link_to_cam in tqdm(cameras_ip):
         first_look(link_to_cam)
-    driver.quit()            
+    # driver.quit()            
