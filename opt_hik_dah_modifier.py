@@ -60,36 +60,62 @@ def dahua_ntp_snmp(cam):
             settings = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="main"]/ul/li[8]/span')))
             ActionChains(driver).move_to_element(settings).click(settings).perform()        
         time.sleep(3)
-        system_menu = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="set-menu"]/li[5]/a/span'))) 
-        driver.execute_script("arguments[0].click();", system_menu)
-        time.sleep(3)
-        system_basic = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="set-menu"]/li[5]/ul/li[1]/span')))
-        system_basic.click()
-        system_date = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, ' //*[@id="page_generalConfig"]/ul/li[2]')))
-        system_date.click()   
-        dahua_time_zone = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="gen_timeZone"]')))
-        dahua_time_zone.click()
-        dahua_time_zone_select = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div[2]/div[8]/div[1]/div[2]/div/div[2]/div/div[2]/div[3]/select/option[118]')))
-        dahua_time_zone_select.click()  
-        ntp_checkbox_form = driver.find_element("xpath", '//*[@id="gen_NTPEnable"]')
-        if ntp_checkbox_form.is_selected():
-            pass
-        else:
-            ntp_checkbox_form.click()
-        ntp = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="gen_NTPServer"]')))
-        ntp.send_keys(Keys.CONTROL + "a")
-        ntp.send_keys(Keys.DELETE)        
-        ntp.send_keys(ntp_address)
         try:
-            accept_save = driver.find_element("xpath",'//*[@id="page_generalConfig"]/div/div[2]/div[15]/a[3]') 
+            system_menu = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="set-menu"]/li[5]/a/span'))) 
+            driver.execute_script("arguments[0].click();", system_menu)
+            time.sleep(3)
+            system_basic = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="set-menu"]/li[5]/ul/li[1]/span')))
+            system_basic.click()
+            system_date = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, ' //*[@id="page_generalConfig"]/ul/li[2]')))
+            system_date.click()   
+            dahua_time_zone = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="gen_timeZone"]')))
+            dahua_time_zone.click()
+            dahua_time_zone_select = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div[2]/div[8]/div[1]/div[2]/div/div[2]/div/div[2]/div[3]/select/option[118]'))) 
+            time.sleep(2)
+            driver.execute_script("arguments[0].click();", dahua_time_zone_select)
+            time.sleep(2)
+            ntp_checkbox_form = driver.find_element("xpath", '//*[@id="gen_NTPEnable"]')
+            if ntp_checkbox_form.is_selected():
+                pass
+            else:
+                ntp_checkbox_form.click()
+            ntp = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="gen_NTPServer"]')))
+            ntp.send_keys(Keys.CONTROL + "a")
+            ntp.send_keys(Keys.DELETE)        
+            ntp.send_keys(ntp_address)
+            try:
+                accept_save = driver.find_element("xpath",'//*[@id="page_generalConfig"]/div/div[2]/div[15]/a[3]') 
+            except:
+                accept_save = driver.find_element("xpath", '/html/body/div[2]/div[2]/div[8]/div[1]/div[2]/div/div[2]/div/div[2]/div[17]/a[3]')
+            accept_save.click()
+            time.sleep(3)  
+            ntp_yes = driver.find_element("xpath",'/html/body/div[16]/div[3]/a[1]') 
+            ntp_yes.click()
+            with open(file_path_suc, 'a') as file:
+                print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "dahua ntp enabled", file = file)
         except:
-            accept_save = driver.find_element("xpath", '/html/body/div[2]/div[2]/div[8]/div[1]/div[2]/div/div[2]/div/div[2]/div[17]/a[3]')
-        accept_save.click()
-        time.sleep(3)  
-        ntp_yes = driver.find_element("xpath",'/html/body/div[16]/div[3]/a[1]') 
-        ntp_yes.click()
+            pass
+        # PArt for changing pass
+        time.sleep(1)
+        dahua_acc_manager = driver.find_element("xpath", '/html/body/div[2]/div[2]/div[6]/div[1]/div[1]/ul/li[5]/ul/li[2]/span')
+        dahua_acc_manager.click()
+        time.sleep(1)
+        dahua_redact_user = driver.find_element("xpath", '/html/body/div[2]/div[2]/div[6]/div[1]/div[2]/div/div[3]/div/div[1]/div[2]/div[1]/div[1]/div/div[2]/table/tbody/tr/td[5]/i')
+        dahua_redact_user.click()
+        time.sleep(1)
+        dahua_change_pass = driver.find_element("xpath", '//*[@id="use_EUserChkPwd"]')
+        dahua_change_pass.click()        
+        dahua_old_login = driver.find_element("xpath", '//*[@id="use_EUserOPwd"]')
+        dahua_old_login.send_keys(pass_to_cam)
+        dahua_new_pass = driver.find_element("xpath", '//*[@id="use_EUserNPwd"]')
+        dahua_new_pass.send_keys(new_pass_to_cam)
+        dahua_acc_pass = driver.find_element("xpath", '//*[@id="use_EUserPwdCfm"]')
+        dahua_acc_pass.send_keys(new_pass_to_cam)        
+        dahua_accept_save = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[20]/div[3]/a[1]')))
+        dahua_accept_save.click()
         with open(file_path_suc, 'a') as file:
-            print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "dahua ntp enabled", file = file)
+            print(cam, new_pass_to_cam, file = file)        
+
         try:
             net = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="set-menu"]/li[2]/a/span')))
             net.click()
@@ -148,6 +174,7 @@ def dahua_ntp_snmp(cam):
                 print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "dahua snmp v2 enabled", file = file)
         except:
             pass
+
     except Exception as exc:
         with open(dahua_path_fail, 'a') as file:
             print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), cam, "FAILED because", exc, file = file)
