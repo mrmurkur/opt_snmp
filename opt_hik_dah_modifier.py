@@ -46,8 +46,7 @@ def password_gen(length = 8):
 with open('test.txt', 'r') as f:
     cameras_ip = f.read().splitlines()
 
-
-def dahua_snmp(cam):
+def dahua_ntp_snmp(cam):
     try:
         dahua_login = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//*[@id="login_user"]')))
         dahua_login.send_keys('admin')
@@ -67,7 +66,16 @@ def dahua_snmp(cam):
         system_basic = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="set-menu"]/li[5]/ul/li[1]/span')))
         system_basic.click()
         system_date = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, ' //*[@id="page_generalConfig"]/ul/li[2]')))
-        system_date.click()     
+        system_date.click()   
+        dahua_time_zone = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="gen_timeZone"]')))
+        dahua_time_zone.click()
+        dahua_time_zone_select = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div[2]/div[8]/div[1]/div[2]/div/div[2]/div/div[2]/div[3]/select/option[118]')))
+        dahua_time_zone_select.click()  
+        ntp_checkbox_form = driver.find_element("xpath", '//*[@id="gen_NTPEnable"]')
+        if ntp_checkbox_form.is_selected():
+            pass
+        else:
+            ntp_checkbox_form.click()
         ntp = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="gen_NTPServer"]')))
         ntp.send_keys(Keys.CONTROL + "a")
         ntp.send_keys(Keys.DELETE)        
@@ -333,7 +341,7 @@ def first_look(link_to_cam):
                     if re.findall(r'Hikvision', naming.text):
                         hikvision(link_to_cam)
                 except:
-                    dahua_snmp(link_to_cam)
+                    dahua_ntp_snmp(link_to_cam)
         except Exception as exc:
             with open(file_path_fail, 'a') as file:
                 print(datetime.datetime.now().strftime('%Y-%m-%d-%H-%M-%S'), link_to_cam, "FAILED because", exc, file = file)        
@@ -344,4 +352,4 @@ def first_look(link_to_cam):
 if __name__ == "__main__":
     for link_to_cam in tqdm(cameras_ip):
         first_look(link_to_cam)
-    # driver.quit()            
+    driver.quit()            
